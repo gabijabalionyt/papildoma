@@ -12,8 +12,8 @@
 
 • *Paleisti programą*
 
-  *Jei naudojate unix įrašykite komandą ./main*
-  *Jei naudojate win, įrašykite main:*
+ 	 `*Jei naudojate unix įrašykite komandą ./main*
+  	*Jei naudojate win, įrašykite main:*`
 
 • *Programos naudojimasis bus paprastas, nes visi nurodymai bus parodomi ekrane.*
 

@@ -1,4 +1,4 @@
-# papildoma užduotis. Asociatyvių konteinerių naudojimas
+# Papildoma užduotis. Asociatyvių konteinerių naudojimas
 
 ## Įiegimo ir naudojimosi instrukcijos
 

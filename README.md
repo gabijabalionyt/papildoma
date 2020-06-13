@@ -8,16 +8,17 @@
 
 • *Atsidaryti terminalą ir jame įvesti programos vietą diske*
 
-• *Sukompiliuoti programą, pvz*
+• *Sukompiliuoti programą (`g++ main.cpp -o main`)*
 
-  *Jei naudojate GCC su GNU Make, įrašykite komandą make*
-  *Jei naudojate GCC be GNU Make, įrašykite:*
-  
-  *g++ -c main.cpp funkcijos.cpp*
+• *Paleisti programą*
 
-  *g++ -o main main.o funkcijos.o*
+  *Jei naudojate unix įrašykite komandą ./main*
+  *Jei naudojate win, įrašykite main:*
 
 • *Programos naudojimasis bus paprastas, nes visi nurodymai bus parodomi ekrane.*
+
+• *Programos rezultatai bus išspausdinami ekrane ir įrašomi į failą Rezultatai.txt*
+
 
 ## Programos kodas
 
